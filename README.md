@@ -47,11 +47,12 @@ A full-stack web application designed to help users efficiently manage projects 
 
 ```text
 task-management-system-a/
-├── task-management-backend/      # Laravel API Backend
-├── task-management-frontend/     # React Frontend Application
-├── database/                     # MySQL Database Schema (.sql)
+├── database/                    # MySQL Database Schema (.sql)
 │   └── schema.sql
-└── README.md                     # Documentation
+├── Screenshots/                 # System Screenshots (.png)
+├── task-management-backend/     # Laravel API Backend
+├── task-management-frontend/    # React Frontend Application
+└── README.md                    # Documentation
 ```
 
 ---
