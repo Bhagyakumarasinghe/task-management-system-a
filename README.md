@@ -130,4 +130,4 @@ System screenshots are available in the `screenshots/` directory:
 - **Database:** MySQL Workbench exported schemas and tables
 
 ### 📹 Video Demo
-* **Video Demonstration Link:** [Insert Your Loom / Google Drive Video Link Here]
+* **Video Demonstration Link:** [https://drive.google.com/drive/folders/1KXUREHFpK_36iWnyYC8LIpGKPAxxCLop?usp=sharing]
